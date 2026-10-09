@@ -1,0 +1,18 @@
+{
+  "name": "medicare-telehealth",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Rural Telehealth Platform Prototype – AI-powered healthcare access for villages",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.98.0"
+  }
+}
